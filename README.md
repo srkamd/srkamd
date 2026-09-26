@@ -6,6 +6,37 @@
 
 ---
 
+### 🌐 Connect With Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/srkamd/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <!-- X (Twitter) -->
+  <a href="https://x.com/srkamd" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/srkamd" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/srkamd/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/srkamdpk" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:srkamduk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🚀 About Me
 Passionate **Computer Vision & Deep Learning Practitioner** focused on building custom object detection and instance segmentation pipelines, automated data workflows, and robust Python applications.
 
