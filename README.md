@@ -1,7 +1,7 @@
 # 👨‍💻 Shahrukh Ahmad (SRK AMD)
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Full-Stack+Systems+Architect+%7C+AI+Engineer;Deep+Learning+%26+Computer+Vision+Researcher;High-Throughput+Real-Time+Media+Streaming;Production+Web+Platforms+%7C+Cloud+DevOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Full-Stack+Systems+Architect+%7C+AI+Engineer;Deep+Learning+%26+Computer+Vision+Specialist;High-Throughput+Real-Time+Media+Streaming;Production+Web+Platforms+%7C+Cloud+DevOps" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://linkedin.com/in/srkamd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,18 +15,18 @@
 
 ---
 
-## 🔬 Research & Engineering Focus (Scholarship & Academic Summary)
+## ⚡ Engineering Philosophy & Core Focus
 
-I am a passionate **Full-Stack Systems Engineer and Applied Machine Learning Researcher** focused on architecting high-throughput media pipelines, client-side zero-knowledge systems, and real-world Computer Vision models. 
+I am a **Full-Stack Systems Architect & Applied AI Engineer** passionate about building high-throughput media streaming pipelines, client-side zero-knowledge systems, and real-world Computer Vision models.
 
-My engineering philosophy blends **academic algorithmic rigor** with **industrial-scale performance**:
+My engineering approach prioritizes **performance efficiency, mathematical elegance, and rock-solid reliability**:
 - **Distributed Stream Processing:** Architecting ephemeral, zero-disk-storage media proxies capable of processing real-time video chunk pipelines with $O(1)$ memory overhead.
 - **Deep Learning & Computer Vision:** Designing custom instance segmentation and object tracking pipelines leveraging YOLOv8, PyTorch, and OpenCV for agricultural and biological data extraction.
 - **Privacy-Preserving Client Architecture:** Engineering zero-backend, zero-telemetry client-side PWAs leveraging HTML5 Canvas, SVG vectors, and mathematical error-correction (Reed-Solomon Level H).
 
 ---
 
-## 🌟 Flagship Production & Research Projects
+## 🌟 Flagship Production & Engineering Projects
 
 | Project | Domain & Architecture | Live Platform & Source |
 | :--- | :--- | :--- |
@@ -62,13 +62,11 @@ Core Competencies  : Memory-Piped Streaming, Algorithmic Complexity, Network Opt
 
 ---
 
-## 🎯 Academic Aspirations & Graduate Research Objectives
+## 🎯 Technical Pursuits & Engineering Collaboration
 
-I am currently seeking **Master’s / Ph.D. Scholarship Opportunities and Research Assistantships** in **Computer Science, Software Engineering, and Artificial Intelligence**. 
-
-I am particularly interested in:
+I am actively exploring advanced engineering challenges and collaboration opportunities across:
 - High-performance distributed systems for large-scale multimedia delivery.
 - Edge-AI and real-time computer vision deployment on constrained hardware.
-- Privacy-preserving cryptographic machine learning architectures.
+- Privacy-preserving cryptographic architectures and offline-first PWAs.
 
-📫 **Academic Inquiries & Collaboration:** [srkamduk@gmail.com](mailto:srkamduk@gmail.com) &bull; [LinkedIn](https://linkedin.com/in/srkamd)
+📫 **Get in Touch:** [srkamduk@gmail.com](mailto:srkamduk@gmail.com) &bull; [LinkedIn](https://linkedin.com/in/srkamd)
