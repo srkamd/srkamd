@@ -1,97 +1,74 @@
-# 👨‍💻 Shahrukh Ahmad
+# 👨‍💻 Shahrukh Ahmad (SRK AMD)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=Full-Stack+Systems+Architect+%7C+AI+Engineer;Deep+Learning+%26+Computer+Vision+Researcher;High-Throughput+Real-Time+Media+Streaming;Production+Web+Platforms+%7C+Cloud+DevOps" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=008ABC&center=true&vCenter=true&width=600&lines=Computer+Vision+Practitioner;Deep+Learning+%7C+YOLOv8+%7C+PyTorch;Python+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/srkamd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/srkamd"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://kaggle.com/srkamd"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://x.com/srkamd"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:srkamduk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/srkamd/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- X (Twitter) -->
-  <a href="https://x.com/srkamd" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/srkamd" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/srkamd/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/srkamdpk" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:srkamduk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 🚀 About Me
-Passionate **Computer Vision & Deep Learning Practitioner** focused on building custom object detection and instance segmentation pipelines, automated data workflows, and robust Python applications.
+## 🔬 Research & Engineering Focus (Scholarship & Academic Summary)
 
-- 🔭 **Currently Working On:** Custom YOLOv8 Instance Segmentation & Object Detection Pipelines
-- 💡 **Interests:** Computer Vision, Edge AI, Automated Web Scraping, Precision Agriculture
-- 🌐 **Kaggle Profile:** [kaggle.com/srkamd](https://www.kaggle.com/srkamd)
+I am a passionate **Full-Stack Systems Engineer and Applied Machine Learning Researcher** focused on architecting high-throughput media pipelines, client-side zero-knowledge systems, and real-world Computer Vision models. 
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  
-  <!-- AI / Machine Learning -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  
-  <!-- Data Science -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-
-  <!-- Cloud & Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+My engineering philosophy blends **academic algorithmic rigor** with **industrial-scale performance**:
+- **Distributed Stream Processing:** Architecting ephemeral, zero-disk-storage media proxies capable of processing real-time video chunk pipelines with $O(1)$ memory overhead.
+- **Deep Learning & Computer Vision:** Designing custom instance segmentation and object tracking pipelines leveraging YOLOv8, PyTorch, and OpenCV for agricultural and biological data extraction.
+- **Privacy-Preserving Client Architecture:** Engineering zero-backend, zero-telemetry client-side PWAs leveraging HTML5 Canvas, SVG vectors, and mathematical error-correction (Reed-Solomon Level H).
 
 ---
 
-### ⭐ Featured Projects
+## 🌟 Flagship Production & Research Projects
 
-| Project | Description | Tech Stack |
+| Project | Domain & Architecture | Live Platform & Source |
 | :--- | :--- | :--- |
-| 🐄 **[yolov8-cow-segmentation](https://github.com/srkamd/yolov8-cow-segmentation)** | Custom polygon-annotated cattle instance segmentation model achieving **99% mAP50**. | `YOLOv8-seg`, `PyTorch`, `OpenCV` |
-| ⚡ **[facebook-reels-bulk-downloader](https://github.com/srkamd/facebook-reels-bulk-downloader)** | Automated Python GUI bulk downloader for reels & videos with proxy/cookie support. | `Python`, `GUI`, `Automation` |
-| 📊 **[Tips-Data-Analyist-Report](https://github.com/srkamd/Tips-Data-Analyist-Report)** | Comprehensive exploratory data analysis and statistical reporting on customer tipping. | `Pandas`, `Seaborn`, `EDA` |
-| 🐍 **[Python-Practice-EDA](https://github.com/srkamd/Python-Practice-EDA)** | Hands-on data analytics practices, data wrangling notebooks, and Pandas implementations. | `Python`, `Jupyter`, `Data Analytics` |
+| **FB4K-StreamEngine** | **High-Throughput Media Streaming & Transcoding Pipeline**<br>• Asynchronous Node.js/Express core with keep-alive socket pooling.<br>• In-memory stream piping (`axiosClient`) achieving true $O(1)$ disk overhead.<br>• Static FFmpeg workers for 320kbps MP3 demuxing and resolution upscaling.<br>• Fully compliant statutory DMCA and GDPR privacy architecture. | 🌐 [Live Production](https://fb4kdownloader.com)<br>💻 [Source Repository](https://github.com/srkamd/FB4K-StreamEngine) |
+| **MyLogoQR** | **Enterprise-Grade Client-Side Vector QR Platform**<br>• 100% client-side zero-tracking cryptographic payload generator.<br>• Reed-Solomon Level H algorithm with 30% error-correction recovery.<br>• Progressive Web App (PWA) with Service Worker background caching.<br>• 25 technical SEO guides with custom vector SVG artwork. | 🌐 [Live Production](https://mylogoqr.com)<br>💻 [Source Repository](https://github.com/srkamd/mylogoqr-custom-qr-generator) |
+| **YOLOv8 Instance Segmentation** | **Deep Learning Agricultural Computer Vision Model**<br>• End-to-end custom dataset curation, polygonal annotation, and training.<br>• Real-time polygonal bounding mask inference for livestock tracking.<br>• Integrated precision evaluation metrics (mAP@0.5, mAP@0.5:0.95). | 💻 [Source Repository](https://github.com/srkamd/yolov8-cow-segmentation) |
+| **Speech-to-Text Whisper** | **Locally-Executed Transformer Speech Recognition**<br>• Desktop audio transcribing utility powered by OpenAI's Whisper model.<br>• Multi-lingual translation with zero cloud API dependencies. | 💻 [Source Repository](https://github.com/srkamd/speech-to-text-whisper) |
 
 ---
 
-### 📊 GitHub Statistics
+## 🛠️ Comprehensive Technical Skillset
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srkamd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srkamd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+```
+Backend & Systems  : Node.js, Express.js, Python, Flask, FFmpeg, RESTful APIs, WebSockets
+Machine Learning   : PyTorch, YOLOv8, OpenCV, NumPy, Pandas, Scikit-learn, Matplotlib
+Frontend & PWA     : Vanilla HTML5/CSS3, JavaScript (ES6+), Canvas API, SVG Vectors, Service Workers
+Cloud & DevOps     : Google Cloud Platform (GCP), Cloud Build, Docker, Git/GitHub, CI/CD Actions, Apache
+Core Competencies  : Memory-Piped Streaming, Algorithmic Complexity, Network Optimization, Privacy Compliance
+```
 
 ---
 
-<p align="center">
-  ⭐ <i>Feel free to explore my repositories, open issues, or reach out for collaboration!</i>
-</p>
+## 📊 GitHub Contribution & Systems Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srkamd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srkamd&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srkamd&theme=tokyonight&hide_border=true" width="97%" />
+</div>
+
+---
+
+## 🎯 Academic Aspirations & Graduate Research Objectives
+
+I am currently seeking **Master’s / Ph.D. Scholarship Opportunities and Research Assistantships** in **Computer Science, Software Engineering, and Artificial Intelligence**. 
+
+I am particularly interested in:
+- High-performance distributed systems for large-scale multimedia delivery.
+- Edge-AI and real-time computer vision deployment on constrained hardware.
+- Privacy-preserving cryptographic machine learning architectures.
+
+📫 **Academic Inquiries & Collaboration:** [srkamduk@gmail.com](mailto:srkamduk@gmail.com) &bull; [LinkedIn](https://linkedin.com/in/srkamd)
