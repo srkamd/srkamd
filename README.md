@@ -31,10 +31,22 @@ My technical interests and day-to-day focus revolve around:
 
 | Project | What I Built & Learned | Live Platform & Code |
 | :--- | :--- | :--- |
-| **FB4K-StreamEngine** | **Media Streaming & In-Memory Transcoding Pipeline**<br>• Built a high-speed web utility for public media archiving.<br>• Learned socket pooling, chunked transfer encoding, and in-memory piping.<br>• Integrated FFmpeg for audio demuxing (320kbps MP3) and resolution upscaling.<br>• Implemented statutory DMCA and GDPR cookie consent standards. | 🌐 [Live Website](https://fb4kdownloader.com)<br>💻 [Source Code](https://github.com/srkamd/FB4K-StreamEngine) |
-| **MyLogoQR** | **Client-Side Custom QR Generator & PWA**<br>• Engineered a 100% browser-based tool with zero server data storage.<br>• Implemented Reed-Solomon Level H fault tolerance (30% error correction).<br>• Enabled offline functionality using Service Workers and Cache Storage.<br>• Designed custom gradients, logo compositing, and SVG vector exports. | 🌐 [Live Website](https://mylogoqr.com)<br>💻 [Source Code](https://github.com/srkamd/mylogoqr-custom-qr-generator) |
+| **FB4K-StreamEngine** | **Media Streaming & In-Memory Transcoding Pipeline**<br>• Built a high-speed web utility for public media archiving.<br>• Learned socket pooling, chunked transfer encoding, and in-memory piping.<br>• Integrated FFmpeg for audio demuxing (320kbps MP3) and resolution upscaling.<br>• Implemented statutory DMCA and GDPR cookie consent standards. | 🌐 [Live Website](https://fb4kdownloader.com)<br>💻 [Source Code](https://github.com/srkamd/FB4K-StreamEngine)<br>⚡ [StackShare](https://stackshare.io/fb4k-streamengine) |
+| **MyLogoQR** | **Client-Side Custom QR Generator & Chrome Extension**<br>• Engineered a 100% browser-based tool with zero server data storage.<br>• Implemented Reed-Solomon Level H fault tolerance (30% error correction).<br>• Published official Chrome Web Store extension for one-click QR creation.<br>• Enabled offline functionality using Service Workers and Cache Storage.<br>• Designed custom gradients, logo compositing, and SVG vector exports. | 🌐 [Live Website](https://mylogoqr.com)<br>🧩 [Chrome Extension](https://chromewebstore.google.com/detail/mylogoqr-free-qr-code-ge/bbmhigcaadcenfjalbjcakbamgpgjlke)<br>💻 [Source Code](https://github.com/srkamd/mylogoqr-custom-qr-generator)<br>⚡ [StackShare](https://stackshare.io/free-qr-code-generator-with-logo-colors-shapes) &bull; [GoodFirms](https://www.goodfirms.co/software/mylogoqr) |
 | **YOLOv8 Cow Segmentation** | **Agricultural Deep Learning & Instance Segmentation**<br>• Curated custom datasets and performed detailed polygonal mask annotations.<br>• Trained YOLOv8 segmentation models using PyTorch and evaluated mAP scores.<br>• Built an inference pipeline for practical livestock identification and tracking. | 💻 [Source Code](https://github.com/srkamd/yolov8-cow-segmentation) |
 | **Speech-to-Text Whisper** | **Local Transformer Speech Recognition Application**<br>• Built a desktop audio transcription utility using OpenAI's Whisper model.<br>• Handled multi-lingual audio processing locally without external paid APIs. | 💻 [Source Code](https://github.com/srkamd/speech-to-text-whisper) |
+
+---
+
+---
+
+## ✍️ Published Articles & Engineering Deep Dives
+
+- 📖 [Medium](https://medium.com/@srkamduk/why-i-built-two-free-ad-free-web-utilities-in-a-world-of-expiring-trials-a5420071d0e7): Why I Built Two Free, Ad-Free Web Utilities in a World of Expiring Trials
+- 📬 [Substack](https://srkamd.substack.com/p/why-i-built-two-free-ad-free-web): Building Lightweight Web Utilities Without Ad Bloat or Expiring Trials
+- 💼 [LinkedIn Pulse](https://www.linkedin.com/pulse/why-i-built-two-free-ad-free-web-utilities-world-expiring-ahmad-z2bnf/): Engineering Zero-Bloat Tools for Creators & Developers
+- 👩‍💻 [Dev.to](https://dev.to/srkamd/two-privacy-first-web-utilities-every-developer-creator-needs-21p4): Two Privacy-First Web Utilities Every Developer & Creator Needs
+- 🚀 [Hashnode](https://srkamd.hashnode.dev/building-lightweight-web-utilities-without-ad-bloat-or-expiring-trials): Client-Side Vector Generation and Lossless Media Extraction
 
 ---
 
@@ -68,4 +80,6 @@ I am always eager to learn, contribute to open-source, and connect with fellow d
 
 - 📧 Email: [srkamduk@gmail.com](mailto:srkamduk@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/srkamd](https://linkedin.com/in/srkamd)
-- 🌐 Projects: [fb4kdownloader.com](https://fb4kdownloader.com) &bull; [mylogoqr.com](https://mylogoqr.com)
+- 🌐 Web Utilities: [fb4kdownloader.com](https://fb4kdownloader.com) &bull; [mylogoqr.com](https://mylogoqr.com)
+- 🧩 Chrome Web Store: [MyLogoQR Extension](https://chromewebstore.google.com/detail/mylogoqr-free-qr-code-ge/bbmhigcaadcenfjalbjcakbamgpgjlke)
+- ⚡ Verified Profiles: [Peerlist](https://peerlist.io/srkamduk) &bull; [StackShare](https://stackshare.io/srkamd) &bull; [Trustpilot](https://www.trustpilot.com/review/mylogoqr.com)
